@@ -2,9 +2,9 @@ manifest:
   projects:
     - name: zmk
       url: https://github.com/innovaker/zmk
-      revision: modular
+      revision: modular-v1
       import: true
     - name: zmk-tidbit
       url: https://github.com/innovaker2/zmk-tidbit
-      revision: master
+      revision: master-v1
       import: true
