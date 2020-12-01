@@ -4,3 +4,7 @@ manifest:
       url: https://github.com/innovaker/zmk
       revision: modular
       import: true
+    - name: zmk-tidbit
+      url: https://github.com/innovaker2/zmk-tidbit
+      revision: master
+      import: true
