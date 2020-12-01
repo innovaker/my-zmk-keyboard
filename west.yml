@@ -6,5 +6,5 @@ manifest:
       import: true
     - name: zmk-tidbit
       url: https://github.com/innovaker2/zmk-tidbit
-      revision: master
+      revision: master-v1
       import: true
