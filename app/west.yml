@@ -2,9 +2,9 @@ manifest:
   projects:
     - name: zmk
       url: https://github.com/innovaker/zmk
-      revision: modular
+      revision: modular-v2
       import: true
     - name: harmless-zmk-shield
       url: https://github.com/innovaker2/harmless-zmk-shield
-      revision: master
+      revision: master-v2
       import: true
